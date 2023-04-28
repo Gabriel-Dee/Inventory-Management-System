@@ -6,8 +6,8 @@ This is a medical inventory management system designed to manage the flow of med
 
 ## Team
 
-Tean Name: HackOverflow
-Track: Health
+- Tean Name: HackOverflow
+- Track: Health
 
 ### Members
 
