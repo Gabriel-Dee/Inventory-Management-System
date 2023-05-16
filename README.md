@@ -44,8 +44,6 @@ Incase of any problems with the repository email: gabrieldee77@gmail.com
 
 Contributions are welcome for this repository
 
-## Authors and acknowledgment
-
 ## License
 
 This repository is under MIT Licence.
