@@ -40,10 +40,6 @@ This is a medical inventory management system designed to manage the flow of med
 
 Incase of any problems with the repository email: gabrieldee77@gmail.com
 
-## Roadmap
-
-
-
 ## Contributing
 
 Contributions are welcome for this repository
