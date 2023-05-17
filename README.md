@@ -4,19 +4,6 @@
 
 This is a medical inventory management system designed to manage the flow of medical supplies and equipment in and out of a medical store. This system allows the medical store to keep track of their inventory levels, to ensure that they have enough supplies to meet the needs of their patients while minimizing waste and avoiding stockouts.
 
-## Team
-
-- Tean Name: HackOverflow
-- Track: Health
-
-### Members
-
-* Gabriel D Minzemalulu
-* Samuel Yona
-* Brian Sisti
-* Gloria Kemilembe
-* Elizabeth Rweikiza
-
 ## Visuals
 
 ![Screenshot 2023-04-27 at 10 50 07](https://user-images.githubusercontent.com/90185518/234795937-504a7118-47a0-4da9-9b65-4d8bca024ae0.png)
@@ -53,15 +40,9 @@ This is a medical inventory management system designed to manage the flow of med
 
 Incase of any problems with the repository email: gabrieldee77@gmail.com
 
-## Roadmap
-
-
-
 ## Contributing
 
 Contributions are welcome for this repository
-
-## Authors and acknowledgment
 
 ## License
 
