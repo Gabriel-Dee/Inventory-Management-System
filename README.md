@@ -47,7 +47,3 @@ Contributions are welcome for this repository
 ## License
 
 This repository is under MIT Licence.
-
-## Project status
-
-The project is under active development process.
